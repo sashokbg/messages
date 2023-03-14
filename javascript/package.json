@@ -1,5 +1,5 @@
 {
-  "name": "@cucumber/messages",
+  "name": "@proxym-france/cucumber-messages",
   "version": "21.0.1",
   "description": "JSON schema-based messages for Cucumber's inter-process communication",
   "type": "module",
